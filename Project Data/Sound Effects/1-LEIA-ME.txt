@@ -1,0 +1,5 @@
+Aqui temos quase um workflow definido... 
+1- usamos o LMMS para criar o som, e exportamos
+2- em sequencia abrimos este som no Audacity e editamos e fazemos nova exportação.
+
+OBS.: O tamanho do arquivo diminuiu em 10x com este processo.
