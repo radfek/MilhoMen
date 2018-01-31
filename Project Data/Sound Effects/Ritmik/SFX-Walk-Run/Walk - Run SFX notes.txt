@@ -1,0 +1,4 @@
+The project contain one presset with two diferent bpm
+
+BPM = 65 for walk SFX
+BPM = 90 for Run SFX
