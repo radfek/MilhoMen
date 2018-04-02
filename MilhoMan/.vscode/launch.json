@@ -1,0 +1,130 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "MilhoMan (Debug)",
+			"request": "launch",
+			"preLaunchTask": "MilhoMan Win64 Debug Build",
+			"program": "C:\\Users\\flavio\\Documents\\Unreal Projects\\MilhoMan\\MilhoMan 4.18\\Binaries\\Win64\\MilhoMan-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.19",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "MilhoMan (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "MilhoMan Win64 DebugGame Build",
+			"program": "C:\\Users\\flavio\\Documents\\Unreal Projects\\MilhoMan\\MilhoMan 4.18\\Binaries\\Win64\\MilhoMan-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.19",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "MilhoMan (Development)",
+			"request": "launch",
+			"preLaunchTask": "MilhoMan Win64 Development Build",
+			"program": "C:\\Users\\flavio\\Documents\\Unreal Projects\\MilhoMan\\MilhoMan 4.18\\Binaries\\Win64\\MilhoMan.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.19",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "MilhoMan (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "MilhoMan Win64 Shipping Build",
+			"program": "C:\\Users\\flavio\\Documents\\Unreal Projects\\MilhoMan\\MilhoMan 4.18\\Binaries\\Win64\\MilhoMan-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.19",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "MilhoMan (Test)",
+			"request": "launch",
+			"preLaunchTask": "MilhoMan Win64 Test Build",
+			"program": "C:\\Users\\flavio\\Documents\\Unreal Projects\\MilhoMan\\MilhoMan 4.18\\Binaries\\Win64\\MilhoMan-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.19",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "MilhoManEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "MilhoManEditor Win64 Debug Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\flavio\\Documents\\Unreal Projects\\MilhoMan\\MilhoMan 4.18\\MilhoMan.uproject",
+				"-debug"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.19",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "MilhoManEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "MilhoManEditor Win64 DebugGame Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\flavio\\Documents\\Unreal Projects\\MilhoMan\\MilhoMan 4.18\\MilhoMan.uproject",
+				"-debug"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.19",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "MilhoManEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "MilhoManEditor Win64 Development Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\flavio\\Documents\\Unreal Projects\\MilhoMan\\MilhoMan 4.18\\MilhoMan.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.19",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.19\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"C:\\Users\\flavio\\Documents\\Unreal Projects\\MilhoMan\\MilhoMan 4.18\\MilhoMan.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.19"
+		}
+	]
+}

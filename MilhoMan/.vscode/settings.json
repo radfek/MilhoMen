@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/flavio/Documents/Unreal Projects/MilhoMan/MilhoMan 4.18/.vs": true,
+		"C:/Users/flavio/Documents/Unreal Projects/MilhoMan/MilhoMan 4.18/.vscode": true,
+		"C:/Users/flavio/Documents/Unreal Projects/MilhoMan/MilhoMan 4.18/Content": true,
+		"C:/Users/flavio/Documents/Unreal Projects/MilhoMan/MilhoMan 4.18/Intermediate": true,
+		"C:/Users/flavio/Documents/Unreal Projects/MilhoMan/MilhoMan 4.18/Saved": true
+	}
+}
