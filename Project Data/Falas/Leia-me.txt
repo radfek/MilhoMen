@@ -1,0 +1,6 @@
+Para fazer a acentuação funcionar o texto deve estar encoded em UTF-8. Para fazer isso siga os paços:
+1- tendo o CSV bonito, abra ele no notepad ++
+2- va no menu enconding e escolha o UTF-8
+3- modifique o texto que ficar bagunçado.
+4- salve.
+
