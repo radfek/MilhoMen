@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Snake 1_data" version="1.3.0" audacityversion="2.1.2" sel0="0.0000000000" sel1="2.0182500000" vpos="64" h="0.0000000000" zoom="34.6837944664" rate="16000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Snake idle 1" channel="2" linked="0" mute="0" solo="0" height="144" minimized="0" isSelected="1" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="32292">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000aa5.au" len="2768" min="-0.00528" max="0.006683" rms="0.000191"/>
+				</waveblock>
+				<waveblock start="2768">
+					<simpleblockfile filename="e0000699.au" len="29524" min="-0.068542" max="0.059662" rms="0.007254"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Snake idle 2" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="16607">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000abf.au" len="16607" min="-0.121094" max="0.108826" rms="0.00765"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Snake idle 3" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="34137">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f85.au" len="34137" min="-0.077118" max="0.083832" rms="0.005253"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Snake idle 4" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="14762">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008f8.au" len="14762" min="-0.089111" max="0.084473" rms="0.00665"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Snake idle 5" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="14762">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ec2.au" len="14762" min="-0.061615" max="0.052185" rms="0.004508"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Snake idle 6" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="19375">
+				<waveblock start="0">
+					<simpleblockfile filename="e00002b1.au" len="19375" min="-0.149323" max="0.125671" rms="0.007423"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Snake 1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="18453">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ac8.au" len="18453" min="-0.085876" max="0.089264" rms="0.007914"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

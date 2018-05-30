@@ -1,0 +1,13 @@
+Os sons da cobra foram pegos esfregando dois isopors e arrastando em um unico movimento
+
+Idle:
+foram todos os sons coletados com o isopor que parecem uma cobra ( arquivo Snake.aup)
+
+Attack1: 
+muitas modificações em um som de idle com um som de pulo feito no ritmik (Cobra-jump sound to addd to attack.wav) a composição esta no attack.aup
+
+Attack2:
+Todos os sons do arquivo Snake.aup tocados juntos
+
+Death: 
+muitas modificações (whawah) em um som de idle com um som de pulo feito no ritmik. A composição esta no death.aup
